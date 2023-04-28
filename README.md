@@ -25,9 +25,11 @@
 
 ### 4. No skill in coding. (maybe like a first grade interpretation of python, but thats it lol)
 
-### I Like doing github stuff, obviously lol. 
+### 5. I Like doing github stuff, obviously lol. 
 
-### uninteresting.😞
+###And thats al im gonna say about me.
+
+### uninteresting. ikr.😞
 
 
 [![Tea ☕'s GitHub stats](https://github-readme-stats.vercel.app/api?username=TeaEndsAcronyms&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
