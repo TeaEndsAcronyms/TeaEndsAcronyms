@@ -30,7 +30,8 @@
 ### uninteresting.😞
 
 
-[![TeaEndsAcronyms's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeaEndsAcronyms)](https://github.com/anuraghazra/github-readme-stats)
+[![Tea ☕'s GitHub stats](https://github-readme-stats.vercel.app/api?username=TeaEndsAcronyms&show_icons=true&theme=dracula)
+)](https://github.com/anuraghazra/github-readme-stats)
 
 # Thats it ^_^
 
