@@ -1,14 +1,20 @@
+
+# Hellloooooo!
+
+
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/07/9f/6f/079f6f7f0538ca81d1f06835c826fc0c.gif" width="600"/>
 </div>
 
-### Hellloooooo!
 
-My Favorite Songs:
+
+### Songs i listen to:
+
 
 <a href="https://github.com/tthn0/Spotify-Readme">
   <img src="https://teasongs.vercel.app/api?rainbow=true" alt="Current Spotify Song">
 </a>
+
 
 
 ### 1. My name is Tea. ☕ >"< (Tea ends acronyms)
