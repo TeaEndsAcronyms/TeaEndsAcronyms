@@ -17,7 +17,7 @@
 
 
 
-### 1. My name is Tea. ☕ >"< (Tea ends acronyms)
+### 1. My name is Tea. ☕ >"< (TeaEndsAcronyms)
 
 ### 2. I live in 308 negra arroya lane in albuquerqe new mexico! (haha breaking bad reference)
 
