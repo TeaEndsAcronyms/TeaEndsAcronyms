@@ -27,7 +27,7 @@
 
 ### 5. I Like doing github stuff, obviously lol. 
 
-### And thats al im gonna say about me.
+### **And thats all im gonna say about me.**
 
 ### uninteresting. ikr.😞
 
