@@ -1,24 +1,33 @@
 <div id="header" align="center">
-
-  ![123305689](https://user-images.githubusercontent.com/123305689/234990667-45315b3d-f910-4c10-88f6-6e4cb08093a9.gif)
-
+  <img src="https://i.pinimg.com/originals/07/9f/6f/079f6f7f0538ca81d1f06835c826fc0c.gif" width="600"/>
 </div>
 
 ### Hellloooooo!
 
-[![TeaEndsAcronyms's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeaEndsAcronyms)](https://github.com/anuraghazra/github-readme-stats)
+My Favorite Songs:
 
-### 1. My name is Tea. ☕ (Tea ends acronyms)
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://teasongs.vercel.app/api?rainbow=true" alt="Current Spotify Song">
+</a>
+
+
+### 1. My name is Tea. ☕ >"< (Tea ends acronyms)
 
 ### 2. I live in 308 negra arroya lane in albuquerqe new mexico! (haha breaking bad reference)
 
 ### 3. Im obsessed with TV shows 📺 (favorites are Gravity Falls; Better Call Saul; The Owl House; etc.)
 
-### No skill in coding. (maybe like a first grade interpretation of python, but thats it lol)
+### 4. No skill in coding. (maybe like a first grade interpretation of python, but thats it lol)
 
-### uninteresting.
+### I Like doing github stuff, obviously lol. 
 
-# Thats it >"<
+### uninteresting.😞
+
+
+[![TeaEndsAcronyms's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeaEndsAcronyms)](https://github.com/anuraghazra/github-readme-stats)
+
+# Thats it ^_^
+
 
 
 
