@@ -3,7 +3,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/07/9f/6f/079f6f7f0538ca81d1f06835c826fc0c.gif" width="600"/>
+  <img src="https://user-images.githubusercontent.com/123305689/235318702-0b1aa85c-46cf-413e-bea0-a00fce48954f.gif" width="600"/>
 </div>
 
 
@@ -12,33 +12,33 @@
 
 
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://teasongs.vercel.app/api?rainbow=true" alt="Current Spotify Song">
+  <img src="https://teasongs.vercel.app/api?rainbow=true&theme=dark" alt="Current Spotify Song">
 </a>
 
 
 
-### 1. My name is Tea. ☕ >"< (TeaEndsAcronyms)
+### * My name is Tea. ☕ ^_^ (TeaEndsAcronyms)
 
-### 2. I live in 308 negra arroya lane in albuquerqe new mexico! (haha breaking bad reference)
+### * I live in 308 negra arroya lane in albuquerqe new mexico! (haha breaking bad reference, **I dont actually live there**)
 
-### 3. Im obsessed with TV shows 📺 (favorites are Gravity Falls; Better Call Saul; The Owl House; etc.)
+### * Im obsessed with TV shows 📺 (favorites are Gravity Falls; Better Call Saul; The Owl House; etc.)
 
-### 4. No skill in coding. (maybe like a first grade interpretation of python, but thats it lol)
+### * No skill in coding. (maybe like a first grade interpretation of python  lol)
 
-### 5. I Like doing github stuff, obviously lol. 
+### * I Like github 🤯🤯🤯
 
-### **And thats all im gonna say about me.**
+### **And thats all im gonna say about me. Im very private lol**
 
-### uninteresting. ikr.😞
+### uninteresting. ikr. （︶^︶）
 
+
+# Stats:
 
 [![Tea ☕'s GitHub stats](https://github-readme-stats.vercel.app/api?username=TeaEndsAcronyms&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
 # Thats it ^_^
-
-
-
-
 
 <!--
 **TeaEndsAcronyms/TeaEndsAcronyms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
