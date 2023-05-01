@@ -15,7 +15,7 @@
 
 
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://teasongs.vercel.app/api?rainbow=true&theme=dark&spin=true" alt="Current Spotify Song">
+  <img src="https://teasongs.vercel.app/api?rainbow=true&theme=dark" alt="Current Spotify Song">
 </a>
 
 
