@@ -1,5 +1,5 @@
 
-# <p align=center> Hellloooooo!! </center>  <img src="https://user-images.githubusercontent.com/123305689/235322275-f86348d6-0fe6-4322-8ec1-4ca78f352f33.gif" width="130">
+#   <p align=center> <img src="https://user-images.githubusercontent.com/123305689/235322275-f86348d6-0fe6-4322-8ec1-4ca78f352f33.gif" width="130"> <br> Hi! ^_^ </center>
 
 
 
@@ -20,17 +20,19 @@
 
 
 
-### * My name is Tea. ☕ ^_^ (TeaEndsAcronyms)
+- <h3>My name is Tea. ☕ ^_^ <i>(TeaEndsAcronyms)</i> </h3>
 
-### * I live in 308 negra arroya lane in albuquerqe new mexico! (haha breaking bad reference, **I dont actually live there**)
+- <h3>I live in 308 negra arroya lane in albuquerqe new mexico! (haha breaking bad reference)</h3>
 
-### * Im obsessed with TV shows 📺 (favorites are Gravity Falls; Better Call Saul; The Owl House; etc.)
+- <h3>Im obsessed with TV shows 📺 (favorites are Gravity Falls; Better Call Saul; The Owl House; etc.)</h3>
 
-### * No skill in coding. (maybe like a first grade interpretation of python  lol)
+- <h3>No skill in coding lol. (maybe like a first grade interpretation of python and html)</h3>
 
-### * I Like github 🤯🤯🤯
+- <h3>I Like github 🤯🤯🤯</h3>
 
-### **And thats all im gonna say about me. Im very private lol**
+- <h3><strong>And thats all im gonna say about me. Im very private lol</strong></h3>
+<br>
+</br>(Any pronouns btw :3)
 
 ### uninteresting. ikr. （︶^︶）
 
