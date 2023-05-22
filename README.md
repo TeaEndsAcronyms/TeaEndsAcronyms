@@ -3,22 +3,16 @@
 
 
 
-
-
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/123305689/235318702-0b1aa85c-46cf-413e-bea0-a00fce48954f.gif" width="600"/>
-</div>
-
-
-
-### Songs i listen to:
+### Songs i listen to: <sup>`Some might be depressing lol`</sup>
 
 
 <a href="https://github.com/tthn0/Spotify-Readme">
   <img src="https://teasongs.vercel.app/api?rainbow=true&theme=dark" alt="Current Spotify Song">
 </a>
 
+# About me:
 
+### uninteresting, ikr. （︶^︶）
 
 - <h3>My name is Tea. ☕ ^_^ <i>(TeaEndsAcronyms)</i> </h3>
 
@@ -34,16 +28,16 @@
 <br>
 </br>(Any pronouns btw :3)
 
-### uninteresting. ikr. （︶^︶）
 
 
-# Stats:
+
+# Statistics:
 
 [![Tea ☕'s GitHub stats](https://github-readme-stats.vercel.app/api?username=TeaEndsAcronyms&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-# Thats it ^_^
+# Thats it ^.^
 
 <!--
 **TeaEndsAcronyms/TeaEndsAcronyms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
