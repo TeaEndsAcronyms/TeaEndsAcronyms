@@ -24,7 +24,7 @@
 
 - <h3>I Like github 🤯🤯🤯</h3>
 
-- <h3>I don't usually play games, but i do love games like omori, oneshot... hell maybe some doom eternal!</h3>
+- <h3>I don't usually play games, but i do love games like omori, oneshot and undertale</h3>
 
 - <h3><strong>And thats all im gonna say about me. Im very private lol</strong></h3>
 <br>
