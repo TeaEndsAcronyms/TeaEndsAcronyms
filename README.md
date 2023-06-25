@@ -1,13 +1,13 @@
 
-#   <p align=center> <img src="https://user-images.githubusercontent.com/123305689/235322275-f86348d6-0fe6-4322-8ec1-4ca78f352f33.gif" width="130"> <br> Hi! ^_^ </center>
+#   <p align=center> <img src="https://user-images.githubusercontent.com/123305689/235322275-f86348d6-0fe6-4322-8ec1-4ca78f352f33.gif" width="130"> <br> Hi! OwO </center>
 
 
-
-### Songs i listen to: <sup>`Some might be depressing lol`</sup>
+### 🎶 Favorite songs: 
+<sup>`Some might be depressing lol`</sup>
 
 
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://teasongs.vercel.app/api?rainbow=true&theme=dark" alt="Current Spotify Song">
+  <img src="https://teasspotifyreadme.vercel.app/api?scan=true&rainbow=true&theme=dark" alt="Current Spotify Song">
 </a>
 
 # About me:
