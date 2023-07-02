@@ -12,7 +12,7 @@
 
 # About me:
 
-### uninteresting, ikr. （︶^︶）
+(Any pronouns btw :3)
 
 - <h3>My name is Tea. ☕ ^_^ <i>(TeaEndsAcronyms)</i> </h3>
 
@@ -27,8 +27,9 @@
 - <h3>I don't usually play games, but i do love games like omori, oneshot and undertale!</h3>
 
 - <h3><strong>And thats all im gonna say about me. Im very private lol</strong></h3>
-<br>
-</br>(Any pronouns btw :3)
+
+### uninteresting, ikr. （︶^︶）
+
 
 
 
