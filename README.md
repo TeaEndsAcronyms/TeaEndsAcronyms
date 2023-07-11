@@ -14,7 +14,7 @@
 
 (Any pronouns btw :3)
 
-- <h3>My name is Tea. ☕ ^_^ <i>(TeaEndsAcronyms)</i> </h3>
+- <h3>My name is ✨ Tea ✨ ^_^ </h3>
 
 - <h3>I live in 308 negra arroya lane in albuquerqe new mexico! (haha breaking bad reference)</h3>
 
